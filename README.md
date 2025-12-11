@@ -20,6 +20,8 @@ The goal is to highlight strong analytical skills, technical capability, and cle
 ---
 
 ## 🚀 Steps
+<img width="1344" height="736" alt="image" src="<img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/02a98170-25a8-499e-9733-442bc8ac007e" />
+" />
 ### 1. Load Dataset (Python)
 * Loaded CSV using Pandas
 * Checked datatypes, missing values, duplicates, and data quality
