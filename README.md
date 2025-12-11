@@ -112,4 +112,4 @@ dashboard/PowerBI_Dashboard.pbix
 * Presentation: `/presentation/Final_Presentation_Gamma.pdf`
 
 ## Dashboard:- 
-<img width="1344" height="736" alt="image" src="https://github.com/user-attachments/assets/ceb4fa20-9c25-403a-8656-2616ef292158" />
+<img width="1344" height="736" alt="image" src="<img width="1341" height="737" alt="image" src="https://github.com/user-attachments/assets/2eb66508-1096-43b7-b605-407d161a8947" />
